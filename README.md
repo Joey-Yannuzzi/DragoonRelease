@@ -7,4 +7,4 @@ Controls:
   Spacebar is for selection
   W and S to navigate command menu
 
-To play the game download the ZIP, unpack it and run the .EXE or Mac equivilent
+To play the game download the ZIP, unpack it and run the .EXE or Mac equivalent
